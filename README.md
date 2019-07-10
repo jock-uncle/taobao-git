@@ -1,2 +1,0 @@
-# taobao-git
-learngit

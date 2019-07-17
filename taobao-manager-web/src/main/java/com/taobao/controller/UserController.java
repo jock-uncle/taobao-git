@@ -26,6 +26,7 @@ public class UserController {
         String content = request.getParameter("content1");
         System.out.println("开始查询---");
         System.out.println(link_call);
+        System.out.println("huxiansheng");
         /*user = userService.get(user);
 
         if (user != null) {

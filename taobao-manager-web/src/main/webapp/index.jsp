@@ -45,7 +45,7 @@
                 <a href="javascript:void(0);" id ="submitInput">保存</a>
                 <%--<INPUT type=submit value="提交" id="submitInput">--%>
                 <INPUT type=reset value="重填">
-                <INPUT type=button value="查看源文件" onclick="location.replace('view-source:'+location)">
+                <INPUT type=button value="查看原文见" onclick="location.replace('view-source:'+location)">
             </TD>
         </TR>
     </TABLE>
